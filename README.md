@@ -25,4 +25,4 @@ Crea 2 formularios, uno de login y otro de registro.
 app quiere ser una tienda on line, por lo que la vista para user y admin debe considerar esto. Por otra parte, considera que el resto de la funcionalidad, será
 parte de lo abordado en la evaluación final.es que implementen el CRUD correspondiente. Estos CRUD deben considerar la implementación de vistas que permitan visualizar todos los registros, editar uno en particular, actualizar los datos, crear nuevos registros y eliminar un registro.
 
-Autor: Rodrigo Fernando Riveros Aránguiz hhttps://github.com/RRiverosA/RRiverosA/
+Autor: Rodrigo Fernando Riveros Aránguiz https://github.com/RRiverosA/RRiverosA/
